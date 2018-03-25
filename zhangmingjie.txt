@@ -7,3 +7,4 @@ here is the change on the branch of zhangmingjie
 another change on branch of zhangmingjie
 
 on master branch, here is the test of on off fast forward
+zhangmingjie branch, test of no ff merge
