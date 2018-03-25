@@ -5,3 +5,5 @@ here is the change on the branch of master
 here is the change on the branch of zhangmingjie
 
 another change on branch of zhangmingjie
+
+on master branch, here is the test of on off fast forward
